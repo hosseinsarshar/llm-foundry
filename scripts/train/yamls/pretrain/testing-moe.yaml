@@ -1,5 +1,5 @@
 variables:
-  data_local: ~/dataset/c4
+  data_local: /app/dataset/c4
   data_remote:  # If blank, files must be present in data_local
   max_seq_len: 128
   global_seed: 17
